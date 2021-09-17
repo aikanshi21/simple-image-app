@@ -1,3 +1,6 @@
+// This is the Second Screen with asset image way
+// main2.dart
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'main.dart';
